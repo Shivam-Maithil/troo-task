@@ -33,7 +33,7 @@ Then start all three servers.
 
 <br/>
 
-APIs.
+##APIs.
 #### `api/products/` (get, put, post, delete, patch)
 #### `api/categories/` (get, put, post, delete, patch)
 #### `api/send-mail/` (args: email)
